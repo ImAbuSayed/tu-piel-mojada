@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-mojada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu piel mojada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-mojada/) |
+| **Get License** | [Get a Licensing Quote for Tu piel mojada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-mojada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, en la zona VIP con la luz apagada
+> Sintiendo el ritmo lento de tu piel mojada
+> Un flow de Barcelona que nos tiene volando
+> Esa mirada tuya me sigue provocando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
