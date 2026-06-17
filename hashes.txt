@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu piel mojada
+
+This log tracks the cryptographic history and versioning for the song **Tu piel mojada** (tu-piel-mojada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:13:13.119643 | `v1` | `f73924286281fdfe9927a88dc6f2129cce1e48d7a5608249a2de1ef5fb9c688c` | `dce7c3842b3285b0fe757a38495c9ffcb1549498e1e70d6a7bd9fb941377d6e7` | `2026-06-17_tu-piel-mojada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

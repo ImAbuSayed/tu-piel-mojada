@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-mojada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu piel mojada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-mojada/) |
+| **Get License** | [Secure Licensing Rights for Tu piel mojada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-mojada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f73924286281fdfe9927a88dc6f2129cce1e48d7a5608249a2de1ef5fb9c688c` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
